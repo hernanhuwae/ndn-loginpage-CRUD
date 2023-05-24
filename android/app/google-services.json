@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811080630162",
+    "project_id": "ndn-database-cobatest",
+    "storage_bucket": "ndn-database-cobatest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811080630162:android:c5ac37d04c4ab5813e4b4b",
+        "android_client_info": {
+          "package_name": "com.example.ndn_database_testing_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811080630162-hgvsmh9cf4eid9vf2k029mp6ebejkacu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ7xcSuM92KXDSUqM2unsNijl0bmK8wXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811080630162-hgvsmh9cf4eid9vf2k029mp6ebejkacu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
